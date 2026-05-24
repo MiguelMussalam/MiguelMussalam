@@ -32,15 +32,8 @@ Minha trajetória começou na eletrônica, o que me deu uma base sólida sobre h
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-
-| Stats | Top Langs |
-|---|---|
-| ![Estatísticas do GitHub](https://github-readme-stats-anuraghazra.vercel.app/api?username=MiguelMussalam&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=71717a&count_private=true) | ![Linguagens mais utilizadas](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=MiguelMussalam&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=71717a&langs_count=5) |
-
-</div>
-
 ![Sequência de commits](https://streak-stats.demolab.com/?user=MiguelMussalam&theme=transparent&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&currStreakNum=71717a&sideNums=71717a&sideLabels=71717a)
+
 
 ---
 
