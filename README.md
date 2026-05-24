@@ -30,6 +30,15 @@ Minha trajetória começou na eletrônica, o que me deu uma base sólida sobre h
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelMussalam&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=71717a&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMussalam&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=71717a&langs_count=5" height="150" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
 ### 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/miguel-mussalam](https://www.linkedin.com/in/miguel-mussalam/)
